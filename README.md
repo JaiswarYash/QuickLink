@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 URL Shortener
 
 A full-stack URL shortener application with a Go (Gin) backend and a React (TypeScript, TailwindCSS) frontend.
