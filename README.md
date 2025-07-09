@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 URL Shortener
 
 A full-stack URL shortener application with a Go (Gin) backend and a React (TypeScript, TailwindCSS) frontend.
@@ -107,3 +108,7 @@ URL-shotener/
 ## License
 
 MIT 
+=======
+# QuickLink
+ Full-stack URL shortener: Go backend API + React &amp; TailwindCSS frontend.
+>>>>>>> d9f0fcb55788f36fad7f7b238d50b7c22e2b8f1d
